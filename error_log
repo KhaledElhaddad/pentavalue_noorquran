@@ -1,0 +1,2 @@
+[06-Sep-2021 12:46:31 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.30. in /home/noorquraanpentat/noorquran/vendor/composer/platform_check.php on line 24
+[22-Sep-2021 18:22:41 UTC] PHP Fatal error:  Cannot declare class ChangeNotificationIdAndnotificationTypeInTableNotification, because the name is already in use in /home/noorquraanpentat/noorquran/database/migrations/2021_09_22_175338_change_notification_id_in_table_notification.php on line 33
